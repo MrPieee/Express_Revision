@@ -1,0 +1,21 @@
+{
+  "name": "lessionone",
+  "version": "1.0.0",
+  "description": "express.js lession one ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "javascript"
+  ],
+  "author": "mr.XXX",
+  "license": "MIT ",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
