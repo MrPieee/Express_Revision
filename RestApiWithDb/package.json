@@ -1,0 +1,30 @@
+{
+  "name": "restapiwithdb",
+  "version": "1.0.0",
+  "description": "Make a rest api with mongoDB Database",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "restapi",
+    "express",
+    "nodb",
+    "nodejs"
+  ],
+  "author": "MR.XXX",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0"
+  }
+}
